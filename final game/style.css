@@ -1,0 +1,50 @@
+.boxes{
+    background-image:url("assets/images/box.png"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+.backwall{
+    border-radius: 25px;
+    background-image:url("assets/images/background .jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    width: 600px;
+    height: 300px;
+    border: none;
+    
+    vertical-align: top;
+
+}
+.teslawall{
+  border-radius: 25px;
+
+  background-image:url("assets/images/back.png"); 
+   margin-left: 26%;
+   margin-right: 26%;
+   vertical-align: top;
+}
+
+.blast{
+    
+    width: 100px;
+    height: 50px;
+   
+}
+
+.gameover{
+font-size: 100px;
+}
+.question{
+    font-size: 40px;
+}
+.questions{
+    text-align: left;
+   
+}
